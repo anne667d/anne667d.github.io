@@ -1,0 +1,43 @@
+body {
+	background-color: #33CCFF;
+	font-family: Arial;
+	max-width: 1024px;
+	Margin: 0 auto;
+}
+
+h1 {
+	color: #000000;
+	text-decoration: underline;
+	padding-left: 1em;
+	font-size:500%;
+}
+
+h2 {
+	color: #CC3333;
+	padding-left: 1em;
+	font-size:200%;
+}
+p {
+	margin-bottom: 0.6em;
+	font-size:150%;
+}
+
+p#p1 {
+	color: #690;
+}
+
+div.box {
+	border: 1px solid gray;
+	padding: 0.5em;
+	margin: 0.5em;
+	width: 50%;
+	box-shadow: 5px 5px 5px gray;
+}
+
+.right {
+	float: right;
+}
+
+.left {
+	float: left;
+}
